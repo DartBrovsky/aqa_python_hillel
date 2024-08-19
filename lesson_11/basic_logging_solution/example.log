@@ -1,0 +1,38 @@
+2024-08-19 19:25:07,572 - INFO - First Initial Logging
+2024-08-19 19:26:22,932 - WARNING - First Initial Warning logging
+2024-08-19 19:26:25,663 - WARNING - First Initial Warning logging
+
+2024-08-19 19:28:33,781 - WARNING - First Initial Warning logging
+2024-08-19 19:28:39,079 - WARNING - First Initial Warning logging
+2024-08-19 19:28:52,748 - WARNING - First Initial Warning logging
+
+2024-08-19 19:41:36 - INFO - Creation of actual result
+2024-08-19 19:41:36 - INFO - Creation of expected result
+2024-08-19 19:41:36 - INFO - Test validation, 20 with 20
+2024-08-19 19:56:53 - INFO - Creation of actual result
+2024-08-19 19:56:53 - INFO - Creation of expected result
+2024-08-19 19:56:53 - INFO - Test validation, 20 with 20
+
+2024-08-19 20:02:12,988 - INFO - Це повідомлення рівня INFO
+2024-08-19 20:02:12,988 - WARNING - Це повідомлення рівня WARNING
+2024-08-19 20:02:12,988 - ERROR - Це повідомлення рівня ERROR
+2024-08-19 20:02:12,988 - CRITICAL - Це повідомлення рівня CRITICAL
+2024-08-19 20:07:08,150 - INFO - Це повідомлення рівня INFO
+2024-08-19 20:07:08,150 - WARNING - Це повідомлення рівня WARNING
+2024-08-19 20:07:08,150 - ERROR - Це повідомлення рівня ERROR
+2024-08-19 20:07:08,151 - CRITICAL - Це повідомлення рівня CRITICAL
+2024-08-19 - INFO - Creation of actual result
+2024-08-19 - INFO - Creation of expected result
+2024-08-19 - INFO - Test validation, 20 with 20
+2024-08-19 20:19:03 - INFO - Creation of actual result - lesson_11.basic_logging_solution.test_with_logger - test_with_logger.py - 24 - test_that_logger_works
+2024-08-19 20:19:03 - INFO - Creation of expected result - lesson_11.basic_logging_solution.test_with_logger - test_with_logger.py - 26 - test_that_logger_works
+2024-08-19 20:19:03 - INFO - Test validation, 20 with 20 - lesson_11.basic_logging_solution.test_with_logger - test_with_logger.py - 29 - test_that_logger_works
+2024-08-19 20:22:16 - INFO - Creation of actual result - __name__ - test_with_logger.py - 24 - test_that_logger_works
+2024-08-19 20:22:16 - INFO - Creation of expected result - __name__ - test_with_logger.py - 26 - test_that_logger_works
+2024-08-19 20:22:16 - INFO - Test validation, 20 with 20 - __name__ - test_with_logger.py - 29 - test_that_logger_works
+2024-08-19 20:22:33 - INFO - Creation of actual result - root - test_with_logger.py - 24 - test_that_logger_works
+2024-08-19 20:22:33 - INFO - Creation of expected result - root - test_with_logger.py - 26 - test_that_logger_works
+2024-08-19 20:22:33 - INFO - Test validation, 20 with 20 - root - test_with_logger.py - 29 - test_that_logger_works
+2024-08-19 20:24:22 - INFO - Creation of actual result - lesson_11.basic_logging_solution.test_with_logger - test_with_logger.py - 24 - test_that_logger_works
+2024-08-19 20:24:22 - INFO - Creation of expected result - lesson_11.basic_logging_solution.test_with_logger - test_with_logger.py - 26 - test_that_logger_works
+2024-08-19 20:24:22 - INFO - Test validation, 20 with 20 - lesson_11.basic_logging_solution.test_with_logger - test_with_logger.py - 29 - test_that_logger_works
