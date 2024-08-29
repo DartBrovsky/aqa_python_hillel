@@ -1,0 +1,10 @@
+{
+  "data": "string",
+  "object": {
+    "name": "Serhii",
+    "age": 8999,
+    "payment_history": {
+
+    }
+  }
+}
