@@ -1,0 +1,6 @@
+[INFO|test_pet_store_api|L37] 2024-09-30T21:19:58+0300: Creation of new pet object...
+[INFO|test_pet_store_api|L43] 2024-09-30T21:19:59+0300: Update created pet object with new status sold
+[INFO|test_pet_store_api|L49] 2024-09-30T21:19:59+0300: Extracting of desired Pet Object that was created with id 30092024
+[INFO|test_pet_store_api|L53] 2024-09-30T21:20:00+0300: Validating that existed pet object has expected status sold
+[INFO|test_pet_store_api|L59] 2024-09-30T21:20:00+0300: Deletion of pet object with id 30092024
+[INFO|test_pet_store_api|L65] 2024-09-30T21:20:00+0300: Validating that after deletion there is NO pet object with id 30092024
