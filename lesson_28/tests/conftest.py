@@ -15,7 +15,8 @@ def web_driver():
     # capabilities = DesiredCapabilities.CHROME.copy()
     # capabilities["browserName"] = "chrome"
     # capabilities["version"] = "100.0"
-    driver: WebDriver = webdriver.Remote(command_executor="http://127.0.0.1:4444/wd/hub", options=chrome_options)
+    # driver: WebDriver = webdriver.Remote(command_executor="http://127.0.0.1:4444/wd/hub", options=chrome_options)
+    driver: WebDriver = webdriver.Chrome()
 
     driver.maximize_window()
     driver.get(TestData.BASE_URL)

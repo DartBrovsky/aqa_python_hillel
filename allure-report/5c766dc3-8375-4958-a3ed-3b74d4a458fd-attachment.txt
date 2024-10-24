@@ -1,0 +1,1 @@
+2024-10-24 19:54:05,693 - my_logger - INFO - Starting of test case

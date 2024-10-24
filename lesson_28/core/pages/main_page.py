@@ -1,3 +1,4 @@
+import allure
 from selenium.webdriver.common.by import By
 from selenium.webdriver.ie.webdriver import WebDriver
 
@@ -16,6 +17,7 @@ class MainPage(AbstractPage):
     def signup_and_login_button(self) -> Button:
         return Button(self._driver, (By.XPATH, ".//li[./a[text()=' Signup / Login']]"))
 
+    @allure.step("Go to signup and login page")
     def go_to_signup_and_login_page(self) -> SignUpAndLoginPage:
         self.signup_and_login_button.click()
 

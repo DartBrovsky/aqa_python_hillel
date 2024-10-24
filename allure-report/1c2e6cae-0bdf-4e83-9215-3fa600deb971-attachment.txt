@@ -1,0 +1,1 @@
+[32mINFO    [0m my_logger:test_initial.py:16 Starting of test case

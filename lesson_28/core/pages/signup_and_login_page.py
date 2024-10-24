@@ -1,3 +1,4 @@
+import allure
 from selenium.webdriver.common.by import By
 from selenium.webdriver.ie.webdriver import WebDriver
 
@@ -24,6 +25,7 @@ class SignUpAndLoginPage(AbstractPage):
     def sign_up_button(self) -> Button:
         return Button(self._driver, (By.XPATH, " .//button[@data-qa='signup-button']"))
 
+    @allure.step("Sign up with credentials {0}, {1}")
     def sign_up_with_credentials(self, name: str, email: str):
         self.sign_up_name_field.fill(name)
         self.sign_up_email_address_field.fill(email)
