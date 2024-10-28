@@ -27,5 +27,6 @@ class TestInitial:
 
     @allure.story("Test for issue vizualization")
     @allure.issue("https://jira/ticket/AQA-567", "Test was failed due to assertion")
+    @pytest.mark.skip("Skip due to known issue")
     def test_issue(self):
         assert False
